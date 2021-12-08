@@ -1,0 +1,24 @@
+.nav-custom,
+#about,
+#projects
+{
+    background-color: #000;
+}
+.jumbotron,
+#skills,
+#project-bg,
+#contacts{
+    background-color: #1f2235;
+}
+.skill-custom img{
+    width: 100px;
+}
+.footer-custom img{
+    width: 50px;
+}
+#contact{
+  background: #fff;
+}
+
+/*responsive element*/
+
