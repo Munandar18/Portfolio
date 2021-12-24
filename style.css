@@ -19,6 +19,25 @@
 #contact{
   background: #fff;
 }
+.icon1{
+    color: rgb(61, 79, 117);
+}
+.icon2{
+    color: navy;
+}
+.icon3{
+    color: rgb(175, 92, 92);
+}
+.icon4{
+    color: rgb(16, 97, 122);
+}
 
 /*responsive element*/
-
+@media screen and (max-width: 450px) {
+    .skill-custom img {
+        width:130%;
+    }
+    .footer-custom img {
+        width:250%;
+    }
+}
